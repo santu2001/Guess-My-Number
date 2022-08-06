@@ -1,0 +1,78 @@
+body {
+  background-color: black;
+}
+.again {
+  height: auto;
+}
+button {
+  width: 150px;
+  height: 50px;
+  background-color: white;
+  text-align: center;
+  margin-top: 60px;
+  margin-left: 60px;
+  font-size: 30px;
+}
+.p1 {
+  color: red;
+  float: right;
+  padding-right: 100px;
+  padding-top: 40px;
+}
+.guess-the-number {
+  width: 50%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  margin-top: -100px;
+}
+.p2 {
+  font-size: 60px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+  color: white;
+}
+.box {
+  position: relative;
+  background-color: white;
+  width: 120px;
+  height: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
+  margin-top: -20px;
+}
+.p3 {
+  text-align: center;
+  font-size: 70px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+  color: white;
+  margin-left: 150px;
+}
+input {
+  margin-top: 20px;
+  margin-left: 150px;
+  width: 150px;
+  height: 100px;
+  font-size: 70px;
+  text-align: center;
+  border: 2px solid white;
+  background-color: black;
+  color: white;
+}
+.check {
+  margin-left: 100px;
+}
+.button2 {
+  width: 130px;
+}
+.result {
+  margin-top: 50px;
+  color: white;
+  width: 50%;
+  height: auto;
+  float: right;
+}
